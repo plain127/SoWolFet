@@ -1,0 +1,2053 @@
+fileFormatVersion: 2
+guid: cd44e68598ad26a4c90136624137e6a0
+timeCreated: 1601392727
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: B0
+    100002: B1
+    100004: B10
+    100006: B11
+    100008: B12
+    100010: B13
+    100012: B14
+    100014: B15
+    100016: B16
+    100018: B17
+    100020: B18
+    100022: B19
+    100024: B2
+    100026: B20
+    100028: B21
+    100030: B22
+    100032: B23
+    100034: B3
+    100036: B4
+    100038: B5
+    100040: B6
+    100042: B7
+    100044: B8
+    100046: B9
+    100048: body
+    100050: //RootNode
+    100052: ear
+    100054: eye
+    100056: eye2
+    100058: eye3
+    100060: foot
+    100062: hand
+    100064: head
+    100066: nose_mouth
+    100068: tail
+    400000: B0
+    400002: B1
+    400004: B10
+    400006: B11
+    400008: B12
+    400010: B13
+    400012: B14
+    400014: B15
+    400016: B16
+    400018: B17
+    400020: B18
+    400022: B19
+    400024: B2
+    400026: B20
+    400028: B21
+    400030: B22
+    400032: B23
+    400034: B3
+    400036: B4
+    400038: B5
+    400040: B6
+    400042: B7
+    400044: B8
+    400046: B9
+    400048: body
+    400050: //RootNode
+    400052: ear
+    400054: eye
+    400056: eye2
+    400058: eye3
+    400060: foot
+    400062: hand
+    400064: head
+    400066: nose_mouth
+    400068: tail
+    2300000: eye
+    2300002: eye2
+    2300004: eye3
+    3300000: eye
+    3300002: eye2
+    3300004: eye3
+    4300000: tail
+    4300002: nose_mouth
+    4300004: hand
+    4300006: foot
+    4300008: ear
+    4300010: body
+    4300012: head
+    4300014: eye2
+    4300016: eye
+    4300018: eye3
+    7400000: idle1
+    7400002: jump
+    7400004: walk
+    7400006: run
+    7400008: falls1
+    7400010: wakesup
+    7400012: idle2
+    7400014: no
+    7400016: yes
+    7400018: waving
+    7400020: happy
+    7400022: attack1
+    7400024: falls2
+    7400026: falls3
+    7400028: run2
+    7400030: attack2
+    7400032: dmg1
+    7400034: dmg2
+    7400036: ALLanim
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: body
+    13700002: ear
+    13700004: foot
+    13700006: hand
+    13700008: head
+    13700010: nose_mouth
+    13700012: tail
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle1
+      takeName: idle1
+      firstFrame: 0
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B0
+        weight: 1
+      - path: B0/B1
+        weight: 1
+      - path: B0/B1/B2
+        weight: 1
+      - path: B0/B1/B2/B17
+        weight: 1
+      - path: B0/B1/B2/B17/B18
+        weight: 1
+      - path: B0/B1/B2/B19
+        weight: 1
+      - path: B0/B1/B2/B19/B20
+        weight: 1
+      - path: B0/B1/B2/B21
+        weight: 1
+      - path: B0/B1/B2/B21/B22
+        weight: 1
+      - path: B0/B1/B2/B21/B23
+        weight: 1
+      - path: B0/B1/B2/eye
+        weight: 1
+      - path: B0/B1/B2/eye2
+        weight: 1
+      - path: B0/B1/B2/eye3
+        weight: 1
+      - path: B0/B1/B2/head
+        weight: 1
+      - path: B0/B1/B3
+        weight: 1
+      - path: B0/B1/B3/B4
+        weight: 1
+      - path: B0/B1/B3/B4/B5
+        weight: 1
+      - path: B0/B1/B6
+        weight: 1
+      - path: B0/B1/B6/B7
+        weight: 1
+      - path: B0/B1/B6/B7/B8
+        weight: 1
+      - path: B0/B1/B9
+        weight: 1
+      - path: B0/B1/B9/B10
+        weight: 1
+      - path: B0/B1/B11
+        weight: 1
+      - path: B0/B1/B11/B12
+        weight: 1
+      - path: B0/B1/B13
+        weight: 1
+      - path: B0/B1/B13/B14
+        weight: 1
+      - path: B0/B1/B13/B14/B15
+        weight: 1
+      - path: B0/B1/B13/B14/B15/B16
+        weight: 1
+      - path: body
+        weight: 1
+      - path: ear
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: hand
+        weight: 1
+      - path: nose_mouth
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jump
+      takeName: jump
+      firstFrame: 160
+      lastFrame: 185
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B0
+        weight: 1
+      - path: B0/B1
+        weight: 1
+      - path: B0/B1/B2
+        weight: 1
+      - path: B0/B1/B2/B17
+        weight: 1
+      - path: B0/B1/B2/B17/B18
+        weight: 1
+      - path: B0/B1/B2/B19
+        weight: 1
+      - path: B0/B1/B2/B19/B20
+        weight: 1
+      - path: B0/B1/B2/B21
+        weight: 1
+      - path: B0/B1/B2/B21/B22
+        weight: 1
+      - path: B0/B1/B2/B21/B23
+        weight: 1
+      - path: B0/B1/B2/eye
+        weight: 1
+      - path: B0/B1/B2/eye2
+        weight: 1
+      - path: B0/B1/B2/eye3
+        weight: 1
+      - path: B0/B1/B2/head
+        weight: 1
+      - path: B0/B1/B3
+        weight: 1
+      - path: B0/B1/B3/B4
+        weight: 1
+      - path: B0/B1/B3/B4/B5
+        weight: 1
+      - path: B0/B1/B6
+        weight: 1
+      - path: B0/B1/B6/B7
+        weight: 1
+      - path: B0/B1/B6/B7/B8
+        weight: 1
+      - path: B0/B1/B9
+        weight: 1
+      - path: B0/B1/B9/B10
+        weight: 1
+      - path: B0/B1/B11
+        weight: 1
+      - path: B0/B1/B11/B12
+        weight: 1
+      - path: B0/B1/B13
+        weight: 1
+      - path: B0/B1/B13/B14
+        weight: 1
+      - path: B0/B1/B13/B14/B15
+        weight: 1
+      - path: B0/B1/B13/B14/B15/B16
+        weight: 1
+      - path: body
+        weight: 1
+      - path: ear
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: hand
+        weight: 1
+      - path: nose_mouth
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: walk
+      takeName: walk
+      firstFrame: 186
+      lastFrame: 221
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B0
+        weight: 1
+      - path: B0/B1
+        weight: 1
+      - path: B0/B1/B2
+        weight: 1
+      - path: B0/B1/B2/B17
+        weight: 1
+      - path: B0/B1/B2/B17/B18
+        weight: 1
+      - path: B0/B1/B2/B19
+        weight: 1
+      - path: B0/B1/B2/B19/B20
+        weight: 1
+      - path: B0/B1/B2/B21
+        weight: 1
+      - path: B0/B1/B2/B21/B22
+        weight: 1
+      - path: B0/B1/B2/B21/B23
+        weight: 1
+      - path: B0/B1/B2/eye
+        weight: 1
+      - path: B0/B1/B2/eye2
+        weight: 1
+      - path: B0/B1/B2/eye3
+        weight: 1
+      - path: B0/B1/B2/head
+        weight: 1
+      - path: B0/B1/B3
+        weight: 1
+      - path: B0/B1/B3/B4
+        weight: 1
+      - path: B0/B1/B3/B4/B5
+        weight: 1
+      - path: B0/B1/B6
+        weight: 1
+      - path: B0/B1/B6/B7
+        weight: 1
+      - path: B0/B1/B6/B7/B8
+        weight: 1
+      - path: B0/B1/B9
+        weight: 1
+      - path: B0/B1/B9/B10
+        weight: 1
+      - path: B0/B1/B11
+        weight: 1
+      - path: B0/B1/B11/B12
+        weight: 1
+      - path: B0/B1/B13
+        weight: 1
+      - path: B0/B1/B13/B14
+        weight: 1
+      - path: B0/B1/B13/B14/B15
+        weight: 1
+      - path: B0/B1/B13/B14/B15/B16
+        weight: 1
+      - path: body
+        weight: 1
+      - path: ear
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: hand
+        weight: 1
+      - path: nose_mouth
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run
+      takeName: run
+      firstFrame: 222
+      lastFrame: 244
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B0
+        weight: 1
+      - path: B0/B1
+        weight: 1
+      - path: B0/B1/B2
+        weight: 1
+      - path: B0/B1/B2/B17
+        weight: 1
+      - path: B0/B1/B2/B17/B18
+        weight: 1
+      - path: B0/B1/B2/B19
+        weight: 1
+      - path: B0/B1/B2/B19/B20
+        weight: 1
+      - path: B0/B1/B2/B21
+        weight: 1
+      - path: B0/B1/B2/B21/B22
+        weight: 1
+      - path: B0/B1/B2/B21/B23
+        weight: 1
+      - path: B0/B1/B2/eye
+        weight: 1
+      - path: B0/B1/B2/eye2
+        weight: 1
+      - path: B0/B1/B2/eye3
+        weight: 1
+      - path: B0/B1/B2/head
+        weight: 1
+      - path: B0/B1/B3
+        weight: 1
+      - path: B0/B1/B3/B4
+        weight: 1
+      - path: B0/B1/B3/B4/B5
+        weight: 1
+      - path: B0/B1/B6
+        weight: 1
+      - path: B0/B1/B6/B7
+        weight: 1
+      - path: B0/B1/B6/B7/B8
+        weight: 1
+      - path: B0/B1/B9
+        weight: 1
+      - path: B0/B1/B9/B10
+        weight: 1
+      - path: B0/B1/B11
+        weight: 1
+      - path: B0/B1/B11/B12
+        weight: 1
+      - path: B0/B1/B13
+        weight: 1
+      - path: B0/B1/B13/B14
+        weight: 1
+      - path: B0/B1/B13/B14/B15
+        weight: 1
+      - path: B0/B1/B13/B14/B15/B16
+        weight: 1
+      - path: body
+        weight: 1
+      - path: ear
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: hand
+        weight: 1
+      - path: nose_mouth
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: falls1
+      takeName: falls1
+      firstFrame: 250
+      lastFrame: 282
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B0
+        weight: 1
+      - path: B0/B1
+        weight: 1
+      - path: B0/B1/B2
+        weight: 1
+      - path: B0/B1/B2/B17
+        weight: 1
+      - path: B0/B1/B2/B17/B18
+        weight: 1
+      - path: B0/B1/B2/B19
+        weight: 1
+      - path: B0/B1/B2/B19/B20
+        weight: 1
+      - path: B0/B1/B2/B21
+        weight: 1
+      - path: B0/B1/B2/B21/B22
+        weight: 1
+      - path: B0/B1/B2/B21/B23
+        weight: 1
+      - path: B0/B1/B2/eye
+        weight: 1
+      - path: B0/B1/B2/eye2
+        weight: 1
+      - path: B0/B1/B2/eye3
+        weight: 1
+      - path: B0/B1/B2/head
+        weight: 1
+      - path: B0/B1/B3
+        weight: 1
+      - path: B0/B1/B3/B4
+        weight: 1
+      - path: B0/B1/B3/B4/B5
+        weight: 1
+      - path: B0/B1/B6
+        weight: 1
+      - path: B0/B1/B6/B7
+        weight: 1
+      - path: B0/B1/B6/B7/B8
+        weight: 1
+      - path: B0/B1/B9
+        weight: 1
+      - path: B0/B1/B9/B10
+        weight: 1
+      - path: B0/B1/B11
+        weight: 1
+      - path: B0/B1/B11/B12
+        weight: 1
+      - path: B0/B1/B13
+        weight: 1
+      - path: B0/B1/B13/B14
+        weight: 1
+      - path: B0/B1/B13/B14/B15
+        weight: 1
+      - path: B0/B1/B13/B14/B15/B16
+        weight: 1
+      - path: body
+        weight: 1
+      - path: ear
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: hand
+        weight: 1
+      - path: nose_mouth
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: wakesup
+      takeName: wakesup
+      firstFrame: 281
+      lastFrame: 313
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B0
+        weight: 1
+      - path: B0/B1
+        weight: 1
+      - path: B0/B1/B2
+        weight: 1
+      - path: B0/B1/B2/B17
+        weight: 1
+      - path: B0/B1/B2/B17/B18
+        weight: 1
+      - path: B0/B1/B2/B19
+        weight: 1
+      - path: B0/B1/B2/B19/B20
+        weight: 1
+      - path: B0/B1/B2/B21
+        weight: 1
+      - path: B0/B1/B2/B21/B22
+        weight: 1
+      - path: B0/B1/B2/B21/B23
+        weight: 1
+      - path: B0/B1/B2/eye
+        weight: 1
+      - path: B0/B1/B2/eye2
+        weight: 1
+      - path: B0/B1/B2/eye3
+        weight: 1
+      - path: B0/B1/B2/head
+        weight: 1
+      - path: B0/B1/B3
+        weight: 1
+      - path: B0/B1/B3/B4
+        weight: 1
+      - path: B0/B1/B3/B4/B5
+        weight: 1
+      - path: B0/B1/B6
+        weight: 1
+      - path: B0/B1/B6/B7
+        weight: 1
+      - path: B0/B1/B6/B7/B8
+        weight: 1
+      - path: B0/B1/B9
+        weight: 1
+      - path: B0/B1/B9/B10
+        weight: 1
+      - path: B0/B1/B11
+        weight: 1
+      - path: B0/B1/B11/B12
+        weight: 1
+      - path: B0/B1/B13
+        weight: 1
+      - path: B0/B1/B13/B14
+        weight: 1
+      - path: B0/B1/B13/B14/B15
+        weight: 1
+      - path: B0/B1/B13/B14/B15/B16
+        weight: 1
+      - path: body
+        weight: 1
+      - path: ear
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: hand
+        weight: 1
+      - path: nose_mouth
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle2
+      takeName: idle2
+      firstFrame: 313
+      lastFrame: 419
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B0
+        weight: 1
+      - path: B0/B1
+        weight: 1
+      - path: B0/B1/B2
+        weight: 1
+      - path: B0/B1/B2/B17
+        weight: 1
+      - path: B0/B1/B2/B17/B18
+        weight: 1
+      - path: B0/B1/B2/B19
+        weight: 1
+      - path: B0/B1/B2/B19/B20
+        weight: 1
+      - path: B0/B1/B2/B21
+        weight: 1
+      - path: B0/B1/B2/B21/B22
+        weight: 1
+      - path: B0/B1/B2/B21/B23
+        weight: 1
+      - path: B0/B1/B2/eye
+        weight: 1
+      - path: B0/B1/B2/eye2
+        weight: 1
+      - path: B0/B1/B2/eye3
+        weight: 1
+      - path: B0/B1/B2/head
+        weight: 1
+      - path: B0/B1/B3
+        weight: 1
+      - path: B0/B1/B3/B4
+        weight: 1
+      - path: B0/B1/B3/B4/B5
+        weight: 1
+      - path: B0/B1/B6
+        weight: 1
+      - path: B0/B1/B6/B7
+        weight: 1
+      - path: B0/B1/B6/B7/B8
+        weight: 1
+      - path: B0/B1/B9
+        weight: 1
+      - path: B0/B1/B9/B10
+        weight: 1
+      - path: B0/B1/B11
+        weight: 1
+      - path: B0/B1/B11/B12
+        weight: 1
+      - path: B0/B1/B13
+        weight: 1
+      - path: B0/B1/B13/B14
+        weight: 1
+      - path: B0/B1/B13/B14/B15
+        weight: 1
+      - path: B0/B1/B13/B14/B15/B16
+        weight: 1
+      - path: body
+        weight: 1
+      - path: ear
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: hand
+        weight: 1
+      - path: nose_mouth
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: no
+      takeName: no
+      firstFrame: 422
+      lastFrame: 458
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B0
+        weight: 1
+      - path: B0/B1
+        weight: 1
+      - path: B0/B1/B2
+        weight: 1
+      - path: B0/B1/B2/B17
+        weight: 1
+      - path: B0/B1/B2/B17/B18
+        weight: 1
+      - path: B0/B1/B2/B19
+        weight: 1
+      - path: B0/B1/B2/B19/B20
+        weight: 1
+      - path: B0/B1/B2/B21
+        weight: 1
+      - path: B0/B1/B2/B21/B22
+        weight: 1
+      - path: B0/B1/B2/B21/B23
+        weight: 1
+      - path: B0/B1/B2/eye
+        weight: 1
+      - path: B0/B1/B2/eye2
+        weight: 1
+      - path: B0/B1/B2/eye3
+        weight: 1
+      - path: B0/B1/B2/head
+        weight: 1
+      - path: B0/B1/B3
+        weight: 1
+      - path: B0/B1/B3/B4
+        weight: 1
+      - path: B0/B1/B3/B4/B5
+        weight: 1
+      - path: B0/B1/B6
+        weight: 1
+      - path: B0/B1/B6/B7
+        weight: 1
+      - path: B0/B1/B6/B7/B8
+        weight: 1
+      - path: B0/B1/B9
+        weight: 1
+      - path: B0/B1/B9/B10
+        weight: 1
+      - path: B0/B1/B11
+        weight: 1
+      - path: B0/B1/B11/B12
+        weight: 1
+      - path: B0/B1/B13
+        weight: 1
+      - path: B0/B1/B13/B14
+        weight: 1
+      - path: B0/B1/B13/B14/B15
+        weight: 1
+      - path: B0/B1/B13/B14/B15/B16
+        weight: 1
+      - path: body
+        weight: 1
+      - path: ear
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: hand
+        weight: 1
+      - path: nose_mouth
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: yes
+      takeName: yes
+      firstFrame: 461
+      lastFrame: 494
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B0
+        weight: 1
+      - path: B0/B1
+        weight: 1
+      - path: B0/B1/B2
+        weight: 1
+      - path: B0/B1/B2/B17
+        weight: 1
+      - path: B0/B1/B2/B17/B18
+        weight: 1
+      - path: B0/B1/B2/B19
+        weight: 1
+      - path: B0/B1/B2/B19/B20
+        weight: 1
+      - path: B0/B1/B2/B21
+        weight: 1
+      - path: B0/B1/B2/B21/B22
+        weight: 1
+      - path: B0/B1/B2/B21/B23
+        weight: 1
+      - path: B0/B1/B2/eye
+        weight: 1
+      - path: B0/B1/B2/eye2
+        weight: 1
+      - path: B0/B1/B2/eye3
+        weight: 1
+      - path: B0/B1/B2/head
+        weight: 1
+      - path: B0/B1/B3
+        weight: 1
+      - path: B0/B1/B3/B4
+        weight: 1
+      - path: B0/B1/B3/B4/B5
+        weight: 1
+      - path: B0/B1/B6
+        weight: 1
+      - path: B0/B1/B6/B7
+        weight: 1
+      - path: B0/B1/B6/B7/B8
+        weight: 1
+      - path: B0/B1/B9
+        weight: 1
+      - path: B0/B1/B9/B10
+        weight: 1
+      - path: B0/B1/B11
+        weight: 1
+      - path: B0/B1/B11/B12
+        weight: 1
+      - path: B0/B1/B13
+        weight: 1
+      - path: B0/B1/B13/B14
+        weight: 1
+      - path: B0/B1/B13/B14/B15
+        weight: 1
+      - path: B0/B1/B13/B14/B15/B16
+        weight: 1
+      - path: body
+        weight: 1
+      - path: ear
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: hand
+        weight: 1
+      - path: nose_mouth
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: waving
+      takeName: waving
+      firstFrame: 497
+      lastFrame: 520
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B0
+        weight: 1
+      - path: B0/B1
+        weight: 1
+      - path: B0/B1/B2
+        weight: 1
+      - path: B0/B1/B2/B17
+        weight: 1
+      - path: B0/B1/B2/B17/B18
+        weight: 1
+      - path: B0/B1/B2/B19
+        weight: 1
+      - path: B0/B1/B2/B19/B20
+        weight: 1
+      - path: B0/B1/B2/B21
+        weight: 1
+      - path: B0/B1/B2/B21/B22
+        weight: 1
+      - path: B0/B1/B2/B21/B23
+        weight: 1
+      - path: B0/B1/B2/eye
+        weight: 1
+      - path: B0/B1/B2/eye2
+        weight: 1
+      - path: B0/B1/B2/eye3
+        weight: 1
+      - path: B0/B1/B2/head
+        weight: 1
+      - path: B0/B1/B3
+        weight: 1
+      - path: B0/B1/B3/B4
+        weight: 1
+      - path: B0/B1/B3/B4/B5
+        weight: 1
+      - path: B0/B1/B6
+        weight: 1
+      - path: B0/B1/B6/B7
+        weight: 1
+      - path: B0/B1/B6/B7/B8
+        weight: 1
+      - path: B0/B1/B9
+        weight: 1
+      - path: B0/B1/B9/B10
+        weight: 1
+      - path: B0/B1/B11
+        weight: 1
+      - path: B0/B1/B11/B12
+        weight: 1
+      - path: B0/B1/B13
+        weight: 1
+      - path: B0/B1/B13/B14
+        weight: 1
+      - path: B0/B1/B13/B14/B15
+        weight: 1
+      - path: B0/B1/B13/B14/B15/B16
+        weight: 1
+      - path: body
+        weight: 1
+      - path: ear
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: hand
+        weight: 1
+      - path: nose_mouth
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: happy
+      takeName: happy
+      firstFrame: 522
+      lastFrame: 546
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B0
+        weight: 1
+      - path: B0/B1
+        weight: 1
+      - path: B0/B1/B2
+        weight: 1
+      - path: B0/B1/B2/B17
+        weight: 1
+      - path: B0/B1/B2/B17/B18
+        weight: 1
+      - path: B0/B1/B2/B19
+        weight: 1
+      - path: B0/B1/B2/B19/B20
+        weight: 1
+      - path: B0/B1/B2/B21
+        weight: 1
+      - path: B0/B1/B2/B21/B22
+        weight: 1
+      - path: B0/B1/B2/B21/B23
+        weight: 1
+      - path: B0/B1/B2/eye
+        weight: 1
+      - path: B0/B1/B2/eye2
+        weight: 1
+      - path: B0/B1/B2/eye3
+        weight: 1
+      - path: B0/B1/B2/head
+        weight: 1
+      - path: B0/B1/B3
+        weight: 1
+      - path: B0/B1/B3/B4
+        weight: 1
+      - path: B0/B1/B3/B4/B5
+        weight: 1
+      - path: B0/B1/B6
+        weight: 1
+      - path: B0/B1/B6/B7
+        weight: 1
+      - path: B0/B1/B6/B7/B8
+        weight: 1
+      - path: B0/B1/B9
+        weight: 1
+      - path: B0/B1/B9/B10
+        weight: 1
+      - path: B0/B1/B11
+        weight: 1
+      - path: B0/B1/B11/B12
+        weight: 1
+      - path: B0/B1/B13
+        weight: 1
+      - path: B0/B1/B13/B14
+        weight: 1
+      - path: B0/B1/B13/B14/B15
+        weight: 1
+      - path: B0/B1/B13/B14/B15/B16
+        weight: 1
+      - path: body
+        weight: 1
+      - path: ear
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: hand
+        weight: 1
+      - path: nose_mouth
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack1
+      takeName: attack1
+      firstFrame: 551
+      lastFrame: 572
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B0
+        weight: 1
+      - path: B0/B1
+        weight: 1
+      - path: B0/B1/B2
+        weight: 1
+      - path: B0/B1/B2/B17
+        weight: 1
+      - path: B0/B1/B2/B17/B18
+        weight: 1
+      - path: B0/B1/B2/B19
+        weight: 1
+      - path: B0/B1/B2/B19/B20
+        weight: 1
+      - path: B0/B1/B2/B21
+        weight: 1
+      - path: B0/B1/B2/B21/B22
+        weight: 1
+      - path: B0/B1/B2/B21/B23
+        weight: 1
+      - path: B0/B1/B2/eye
+        weight: 1
+      - path: B0/B1/B2/eye2
+        weight: 1
+      - path: B0/B1/B2/eye3
+        weight: 1
+      - path: B0/B1/B2/head
+        weight: 1
+      - path: B0/B1/B3
+        weight: 1
+      - path: B0/B1/B3/B4
+        weight: 1
+      - path: B0/B1/B3/B4/B5
+        weight: 1
+      - path: B0/B1/B6
+        weight: 1
+      - path: B0/B1/B6/B7
+        weight: 1
+      - path: B0/B1/B6/B7/B8
+        weight: 1
+      - path: B0/B1/B9
+        weight: 1
+      - path: B0/B1/B9/B10
+        weight: 1
+      - path: B0/B1/B11
+        weight: 1
+      - path: B0/B1/B11/B12
+        weight: 1
+      - path: B0/B1/B13
+        weight: 1
+      - path: B0/B1/B13/B14
+        weight: 1
+      - path: B0/B1/B13/B14/B15
+        weight: 1
+      - path: B0/B1/B13/B14/B15/B16
+        weight: 1
+      - path: body
+        weight: 1
+      - path: ear
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: hand
+        weight: 1
+      - path: nose_mouth
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: falls2
+      takeName: falls2
+      firstFrame: 575
+      lastFrame: 607
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B0
+        weight: 1
+      - path: B0/B1
+        weight: 1
+      - path: B0/B1/B2
+        weight: 1
+      - path: B0/B1/B2/B17
+        weight: 1
+      - path: B0/B1/B2/B17/B18
+        weight: 1
+      - path: B0/B1/B2/B19
+        weight: 1
+      - path: B0/B1/B2/B19/B20
+        weight: 1
+      - path: B0/B1/B2/B21
+        weight: 1
+      - path: B0/B1/B2/B21/B22
+        weight: 1
+      - path: B0/B1/B2/B21/B23
+        weight: 1
+      - path: B0/B1/B2/eye
+        weight: 1
+      - path: B0/B1/B2/eye2
+        weight: 1
+      - path: B0/B1/B2/eye3
+        weight: 1
+      - path: B0/B1/B2/head
+        weight: 1
+      - path: B0/B1/B3
+        weight: 1
+      - path: B0/B1/B3/B4
+        weight: 1
+      - path: B0/B1/B3/B4/B5
+        weight: 1
+      - path: B0/B1/B6
+        weight: 1
+      - path: B0/B1/B6/B7
+        weight: 1
+      - path: B0/B1/B6/B7/B8
+        weight: 1
+      - path: B0/B1/B9
+        weight: 1
+      - path: B0/B1/B9/B10
+        weight: 1
+      - path: B0/B1/B11
+        weight: 1
+      - path: B0/B1/B11/B12
+        weight: 1
+      - path: B0/B1/B13
+        weight: 1
+      - path: B0/B1/B13/B14
+        weight: 1
+      - path: B0/B1/B13/B14/B15
+        weight: 1
+      - path: B0/B1/B13/B14/B15/B16
+        weight: 1
+      - path: body
+        weight: 1
+      - path: ear
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: hand
+        weight: 1
+      - path: nose_mouth
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: falls3
+      takeName: falls3
+      firstFrame: 610
+      lastFrame: 642
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B0
+        weight: 1
+      - path: B0/B1
+        weight: 1
+      - path: B0/B1/B2
+        weight: 1
+      - path: B0/B1/B2/B17
+        weight: 1
+      - path: B0/B1/B2/B17/B18
+        weight: 1
+      - path: B0/B1/B2/B19
+        weight: 1
+      - path: B0/B1/B2/B19/B20
+        weight: 1
+      - path: B0/B1/B2/B21
+        weight: 1
+      - path: B0/B1/B2/B21/B22
+        weight: 1
+      - path: B0/B1/B2/B21/B23
+        weight: 1
+      - path: B0/B1/B2/eye
+        weight: 1
+      - path: B0/B1/B2/eye2
+        weight: 1
+      - path: B0/B1/B2/eye3
+        weight: 1
+      - path: B0/B1/B2/head
+        weight: 1
+      - path: B0/B1/B3
+        weight: 1
+      - path: B0/B1/B3/B4
+        weight: 1
+      - path: B0/B1/B3/B4/B5
+        weight: 1
+      - path: B0/B1/B6
+        weight: 1
+      - path: B0/B1/B6/B7
+        weight: 1
+      - path: B0/B1/B6/B7/B8
+        weight: 1
+      - path: B0/B1/B9
+        weight: 1
+      - path: B0/B1/B9/B10
+        weight: 1
+      - path: B0/B1/B11
+        weight: 1
+      - path: B0/B1/B11/B12
+        weight: 1
+      - path: B0/B1/B13
+        weight: 1
+      - path: B0/B1/B13/B14
+        weight: 1
+      - path: B0/B1/B13/B14/B15
+        weight: 1
+      - path: B0/B1/B13/B14/B15/B16
+        weight: 1
+      - path: body
+        weight: 1
+      - path: ear
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: hand
+        weight: 1
+      - path: nose_mouth
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run2
+      takeName: run2
+      firstFrame: 645
+      lastFrame: 664
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B0
+        weight: 1
+      - path: B0/B1
+        weight: 1
+      - path: B0/B1/B2
+        weight: 1
+      - path: B0/B1/B2/B17
+        weight: 1
+      - path: B0/B1/B2/B17/B18
+        weight: 1
+      - path: B0/B1/B2/B19
+        weight: 1
+      - path: B0/B1/B2/B19/B20
+        weight: 1
+      - path: B0/B1/B2/B21
+        weight: 1
+      - path: B0/B1/B2/B21/B22
+        weight: 1
+      - path: B0/B1/B2/B21/B23
+        weight: 1
+      - path: B0/B1/B2/eye
+        weight: 1
+      - path: B0/B1/B2/eye2
+        weight: 1
+      - path: B0/B1/B2/eye3
+        weight: 1
+      - path: B0/B1/B2/head
+        weight: 1
+      - path: B0/B1/B3
+        weight: 1
+      - path: B0/B1/B3/B4
+        weight: 1
+      - path: B0/B1/B3/B4/B5
+        weight: 1
+      - path: B0/B1/B6
+        weight: 1
+      - path: B0/B1/B6/B7
+        weight: 1
+      - path: B0/B1/B6/B7/B8
+        weight: 1
+      - path: B0/B1/B9
+        weight: 1
+      - path: B0/B1/B9/B10
+        weight: 1
+      - path: B0/B1/B11
+        weight: 1
+      - path: B0/B1/B11/B12
+        weight: 1
+      - path: B0/B1/B13
+        weight: 1
+      - path: B0/B1/B13/B14
+        weight: 1
+      - path: B0/B1/B13/B14/B15
+        weight: 1
+      - path: B0/B1/B13/B14/B15/B16
+        weight: 1
+      - path: body
+        weight: 1
+      - path: ear
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: hand
+        weight: 1
+      - path: nose_mouth
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack2
+      takeName: attack2
+      firstFrame: 667
+      lastFrame: 690
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B0
+        weight: 1
+      - path: B0/B1
+        weight: 1
+      - path: B0/B1/B2
+        weight: 1
+      - path: B0/B1/B2/B17
+        weight: 1
+      - path: B0/B1/B2/B17/B18
+        weight: 1
+      - path: B0/B1/B2/B19
+        weight: 1
+      - path: B0/B1/B2/B19/B20
+        weight: 1
+      - path: B0/B1/B2/B21
+        weight: 1
+      - path: B0/B1/B2/B21/B22
+        weight: 1
+      - path: B0/B1/B2/B21/B23
+        weight: 1
+      - path: B0/B1/B2/eye
+        weight: 1
+      - path: B0/B1/B2/eye2
+        weight: 1
+      - path: B0/B1/B2/eye3
+        weight: 1
+      - path: B0/B1/B2/head
+        weight: 1
+      - path: B0/B1/B3
+        weight: 1
+      - path: B0/B1/B3/B4
+        weight: 1
+      - path: B0/B1/B3/B4/B5
+        weight: 1
+      - path: B0/B1/B6
+        weight: 1
+      - path: B0/B1/B6/B7
+        weight: 1
+      - path: B0/B1/B6/B7/B8
+        weight: 1
+      - path: B0/B1/B9
+        weight: 1
+      - path: B0/B1/B9/B10
+        weight: 1
+      - path: B0/B1/B11
+        weight: 1
+      - path: B0/B1/B11/B12
+        weight: 1
+      - path: B0/B1/B13
+        weight: 1
+      - path: B0/B1/B13/B14
+        weight: 1
+      - path: B0/B1/B13/B14/B15
+        weight: 1
+      - path: B0/B1/B13/B14/B15/B16
+        weight: 1
+      - path: body
+        weight: 1
+      - path: ear
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: hand
+        weight: 1
+      - path: nose_mouth
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dmg1
+      takeName: dmg1
+      firstFrame: 691
+      lastFrame: 708
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B0
+        weight: 1
+      - path: B0/B1
+        weight: 1
+      - path: B0/B1/B2
+        weight: 1
+      - path: B0/B1/B2/B17
+        weight: 1
+      - path: B0/B1/B2/B17/B18
+        weight: 1
+      - path: B0/B1/B2/B19
+        weight: 1
+      - path: B0/B1/B2/B19/B20
+        weight: 1
+      - path: B0/B1/B2/B21
+        weight: 1
+      - path: B0/B1/B2/B21/B22
+        weight: 1
+      - path: B0/B1/B2/B21/B23
+        weight: 1
+      - path: B0/B1/B2/eye
+        weight: 1
+      - path: B0/B1/B2/eye2
+        weight: 1
+      - path: B0/B1/B2/eye3
+        weight: 1
+      - path: B0/B1/B2/head
+        weight: 1
+      - path: B0/B1/B3
+        weight: 1
+      - path: B0/B1/B3/B4
+        weight: 1
+      - path: B0/B1/B3/B4/B5
+        weight: 1
+      - path: B0/B1/B6
+        weight: 1
+      - path: B0/B1/B6/B7
+        weight: 1
+      - path: B0/B1/B6/B7/B8
+        weight: 1
+      - path: B0/B1/B9
+        weight: 1
+      - path: B0/B1/B9/B10
+        weight: 1
+      - path: B0/B1/B11
+        weight: 1
+      - path: B0/B1/B11/B12
+        weight: 1
+      - path: B0/B1/B13
+        weight: 1
+      - path: B0/B1/B13/B14
+        weight: 1
+      - path: B0/B1/B13/B14/B15
+        weight: 1
+      - path: B0/B1/B13/B14/B15/B16
+        weight: 1
+      - path: body
+        weight: 1
+      - path: ear
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: hand
+        weight: 1
+      - path: nose_mouth
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dmg2
+      takeName: dmg2
+      firstFrame: 710
+      lastFrame: 727
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B0
+        weight: 1
+      - path: B0/B1
+        weight: 1
+      - path: B0/B1/B2
+        weight: 1
+      - path: B0/B1/B2/B17
+        weight: 1
+      - path: B0/B1/B2/B17/B18
+        weight: 1
+      - path: B0/B1/B2/B19
+        weight: 1
+      - path: B0/B1/B2/B19/B20
+        weight: 1
+      - path: B0/B1/B2/B21
+        weight: 1
+      - path: B0/B1/B2/B21/B22
+        weight: 1
+      - path: B0/B1/B2/B21/B23
+        weight: 1
+      - path: B0/B1/B2/eye
+        weight: 1
+      - path: B0/B1/B2/eye2
+        weight: 1
+      - path: B0/B1/B2/eye3
+        weight: 1
+      - path: B0/B1/B2/head
+        weight: 1
+      - path: B0/B1/B3
+        weight: 1
+      - path: B0/B1/B3/B4
+        weight: 1
+      - path: B0/B1/B3/B4/B5
+        weight: 1
+      - path: B0/B1/B6
+        weight: 1
+      - path: B0/B1/B6/B7
+        weight: 1
+      - path: B0/B1/B6/B7/B8
+        weight: 1
+      - path: B0/B1/B9
+        weight: 1
+      - path: B0/B1/B9/B10
+        weight: 1
+      - path: B0/B1/B11
+        weight: 1
+      - path: B0/B1/B11/B12
+        weight: 1
+      - path: B0/B1/B13
+        weight: 1
+      - path: B0/B1/B13/B14
+        weight: 1
+      - path: B0/B1/B13/B14/B15
+        weight: 1
+      - path: B0/B1/B13/B14/B15/B16
+        weight: 1
+      - path: body
+        weight: 1
+      - path: ear
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: hand
+        weight: 1
+      - path: nose_mouth
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ALLanim
+      takeName: ALLanim
+      firstFrame: 0
+      lastFrame: 728
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B0
+        weight: 1
+      - path: B0/B1
+        weight: 1
+      - path: B0/B1/B2
+        weight: 1
+      - path: B0/B1/B2/B17
+        weight: 1
+      - path: B0/B1/B2/B17/B18
+        weight: 1
+      - path: B0/B1/B2/B19
+        weight: 1
+      - path: B0/B1/B2/B19/B20
+        weight: 1
+      - path: B0/B1/B2/B21
+        weight: 1
+      - path: B0/B1/B2/B21/B22
+        weight: 1
+      - path: B0/B1/B2/B21/B23
+        weight: 1
+      - path: B0/B1/B2/eye
+        weight: 1
+      - path: B0/B1/B2/eye2
+        weight: 1
+      - path: B0/B1/B2/eye3
+        weight: 1
+      - path: B0/B1/B2/head
+        weight: 1
+      - path: B0/B1/B3
+        weight: 1
+      - path: B0/B1/B3/B4
+        weight: 1
+      - path: B0/B1/B3/B4/B5
+        weight: 1
+      - path: B0/B1/B6
+        weight: 1
+      - path: B0/B1/B6/B7
+        weight: 1
+      - path: B0/B1/B6/B7/B8
+        weight: 1
+      - path: B0/B1/B9
+        weight: 1
+      - path: B0/B1/B9/B10
+        weight: 1
+      - path: B0/B1/B11
+        weight: 1
+      - path: B0/B1/B11/B12
+        weight: 1
+      - path: B0/B1/B13
+        weight: 1
+      - path: B0/B1/B13/B14
+        weight: 1
+      - path: B0/B1/B13/B14/B15
+        weight: 1
+      - path: B0/B1/B13/B14/B15/B16
+        weight: 1
+      - path: body
+        weight: 1
+      - path: ear
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: hand
+        weight: 1
+      - path: nose_mouth
+        weight: 1
+      - path: tail
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

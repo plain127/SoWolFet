@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SelectCharacter.unity
+    guid: 4b65bd1df8d7499408479d3a82e8d202
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 523e2a98b1c50374b9e2093bdc0ce4ee
+  - enabled: 0
+    path: Assets/Scenes/ARLoading.unity
+    guid: 833d79509e95f06499231fdda0d97039
+  - enabled: 1
+    path: Assets/Scenes/ARBack.unity
+    guid: ff99eed7e8f1d1744a616838bc067fe4
+  - enabled: 1
+    path: Assets/Scenes/ARSelf.unity
+    guid: 45ea4dbcd8831a948b2e16f6f88b3b68
+  - enabled: 1
+    path: Assets/Scenes/Stroll.unity
+    guid: c86c54556105f3d40af2f51a4db04850
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d61bb637f17e539429596d3af524d7ae, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: dc50d9c2f45f04445bcf12ff8c499493, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: b02621a9bc7e27940a827bd904bf33a7, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 522f6fecd2b821c458c5242cb94d1264, type: 2}
